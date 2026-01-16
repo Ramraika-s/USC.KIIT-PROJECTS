@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Label 'Silent Night, Bloody Ni…'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "rT_8ecC4wkWRQrBTlJXGjQ",
+  "Reference": "XzVQg6A-o0eeUp36jmssyw/rT_8ecC4wkWRQrBTlJXGjQ",
+  "ParentRef": "XzVQg6A-o0eeUp36jmssyw/ZsZILSGPCUKASAYPY7SQJg",
+  "Created": "2025-05-17T17:09:15.1085085Z",
+  "Updated": "2025-05-17T17:09:15.1085085Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

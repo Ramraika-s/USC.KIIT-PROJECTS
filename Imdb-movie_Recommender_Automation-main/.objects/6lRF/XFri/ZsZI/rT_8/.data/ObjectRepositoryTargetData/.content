@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wik_0cLokkW94k5TJs8xXg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="imdb.com/find" CVScreenId="b719210f-1194-4645-a7da-a0ee540b25d6" CvTextArea="326, 546, 286, 27" CvTextArgument="Silent Night, Bloody Night" CvType="Text" DesignTimeRectangle="328, 545, 830, 27" ElementType="Text" FullSelectorArgument="&lt;webctrl class='ipc-metadata-list-summary-item__t' parentid='__next' tag='A' /&gt;" Guid="ef4411c5-91c1-497c-a67b-5e1b9ae4e251" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find - IMDb' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="a1b729a04d202c114e687eefb290e239.png" xmlns="">0nWb_pNxusU-6RT0B-xTIjQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

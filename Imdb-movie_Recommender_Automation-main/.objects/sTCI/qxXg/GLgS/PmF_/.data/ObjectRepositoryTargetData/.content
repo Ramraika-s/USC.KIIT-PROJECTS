@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LEVGTOh95UOm7IlF1AAhCA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="imdb.com/find" DesignTimeRectangle="241, 528, 917, 115" ElementType="ListItem" FullSelectorArgument="&lt;webctrl parentid='__next' tag='LI' /&gt;" Guid="9d3c13bd-963c-4528-9886-9203edfd2705" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find - IMDb' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="897de87956957f7ccebb391316d0f92a.png" xmlns="">0yZ-3O1oDT0aau3SkXGtEqg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

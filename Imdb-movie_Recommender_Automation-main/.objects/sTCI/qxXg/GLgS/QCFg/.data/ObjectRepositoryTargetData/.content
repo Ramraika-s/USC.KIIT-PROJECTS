@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CidH0e1Bw0SbcLEurlx-Ew" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="imdb.com/title/tt4154796" CVScreenId="6264caca-b66c-4979-82c8-7dcf439c63e7" CvType="AnyWordGroup" DesignTimeRectangle="1205, 314, 47, 36" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='__next' tag='SPAN' type='' class='sc-d541859f-1 imUuxf' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="2b744369-726e-4375-83e4-a92f16c88a98" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Avengers: Endgame (2019) - IMDb' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="022b6b96d6ff40c6f3aaa25b389ed87a.png" xmlns="">0Kfi2hK8u0EmzsmBy0I9jWw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
